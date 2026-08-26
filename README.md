@@ -2,4 +2,4 @@
 
 Live site: https://xmcaruso-dev.github.io/
 
-Source of truth: https://github.com/xmcaruso-dev/friday-page
+Source: https://github.com/xmcaruso-dev/friday-page
