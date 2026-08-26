@@ -1,7 +1,5 @@
-# Friday Page (live)
+# Friday Page
 
-Public GitHub Pages host for Friday Page.
+Live site: https://xmcaruso-dev.github.io/
 
-Source: https://github.com/xmcaruso-dev/friday-page
-
-Write-access probe from agent.
+Source of truth: https://github.com/xmcaruso-dev/friday-page
